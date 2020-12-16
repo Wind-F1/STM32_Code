@@ -1,0 +1,9 @@
+stm32l476_two_chip_master\xbustostring.o: ..\Drivers\Users\IMU\xbus\xbustostring.c
+stm32l476_two_chip_master\xbustostring.o: ..\Drivers\Users\IMU\xbus\xbustostring.h
+stm32l476_two_chip_master\xbustostring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32l476_two_chip_master\xbustostring.o: ..\Drivers\Users\IMU\xbus\xbusmessageid.h
+stm32l476_two_chip_master\xbustostring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32l476_two_chip_master\xbustostring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32l476_two_chip_master\xbustostring.o: ..\Drivers\Users\IMU\xbus\xbushelpers.h
+stm32l476_two_chip_master\xbustostring.o: ..\Drivers\Users\IMU\xbus\xbusdef.h
+stm32l476_two_chip_master\xbustostring.o: ..\Drivers\Users\ADCs\ADC.h
